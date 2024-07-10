@@ -11,9 +11,7 @@ locale                   : "en-US"
 title                    : "Said Sheck's Portfolio"
 title_separator          : "-"
 name                     : &name "Said Sheck"
-description              : &description "My name is Said Sheck, I am a recent math graduate at the University of Washington. 
-                                        Welcome to my portfolio, here you can see what I've up to over the past few years. 
-                                        A bit about me: I enjoy math, computer science, and statistics; where I am hoping to work in the field of machine learning"
+description              : &description "Said Sheck's Portfolio"
 url                      : "said1210UW.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "said1210UW.github.io"
@@ -23,7 +21,7 @@ repository               : "said1210UW.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/images/profile.png"
+  avatar           : "files/images/profilepic.jpg"
   name             : "Said Sheck"
   pronouns         :  "He/Him"
   bio              : "Mathematics Graduate at the University of Washington"
