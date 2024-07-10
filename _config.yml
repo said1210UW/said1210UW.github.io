@@ -8,13 +8,15 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Said Shek's Portfolio"
+title                    : "Said Sheck's Portfolio"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "My name is Said Sheck, I am a recent math graduate at the University of Washington. 
+                                        Welcome to my portfolio, here you can see what I've up to over the past few years. 
+                                        A bit about me: I enjoy math, computer science, and statistics; where I am hoping to work in the field of machine learning"
+url                      : said1210UW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "said1210UW.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
