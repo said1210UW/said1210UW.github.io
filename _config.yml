@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Said Sheck's Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Said Sheck"
 description              : &description "My name is Said Sheck, I am a recent math graduate at the University of Washington. 
                                         Welcome to my portfolio, here you can see what I've up to over the past few years. 
                                         A bit about me: I enjoy math, computer science, and statistics; where I am hoping to work in the field of machine learning"
@@ -23,9 +23,9 @@ repository               : "said1210UW.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"
+  avatar           : "files/images/profile.png"
+  name             : "Said Sheck"
+  pronouns         :  "He/Him"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
