@@ -9,10 +9,12 @@ author_profile: true
 
 ## Education
 
-1. Bachelor of Arts in Mathematics w/ Minor in Arabic
-2. GPA: 3.42
+1. Bachelor of Arts in Mathematics 
+2. Minor: Arabic
+3. GPA: 3.42
 
-### Relevant Course
+### Relevant Courses
 
 1. STAT 416 (Intro to Machine Learning)
+2.
 
