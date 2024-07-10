@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Hello there my name is Said Sheck, I am a recent class of 2024 mathematics graduate at the University of Washington. A bit about me: I am really into statistics and computer science where I am looking to explore software engineering and data science.Scroll below and click around to see what I've been up to in the last few years
 
 
