@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Education and Skills
 
-{% include base_path %}
+## Education
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. Bachelor of Arts in Mathematics w/ Minor in Arabic
+2. GPA: 3.42
+
+### Relevant Course
+
+1. STAT 416 (Intro to Machine Learning)
+
