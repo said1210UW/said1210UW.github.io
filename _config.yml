@@ -14,7 +14,7 @@ name                     : &name "Said Sheck"
 description              : &description "My name is Said Sheck, I am a recent math graduate at the University of Washington. 
                                         Welcome to my portfolio, here you can see what I've up to over the past few years. 
                                         A bit about me: I enjoy math, computer science, and statistics; where I am hoping to work in the field of machine learning"
-url                      : said1210UW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "said1210UW.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "said1210UW.github.io"
 
@@ -26,9 +26,9 @@ author:
   avatar           : "files/images/profile.png"
   name             : "Said Sheck"
   pronouns         :  "He/Him"
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Mathematics Graduate at the University of Washington"
+  location         : "Seattle, WA"
+  employer         : "University of Washington College of Education Fiscal Office" 
   uri              : # URL
   email            : "none@example.org"
 
