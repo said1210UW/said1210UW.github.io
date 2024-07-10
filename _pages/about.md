@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I'm Said Sheck, a recent mathematics graduate from the University of Washington, class of 2024. I have a strong passion for statistics and computer science, with a keen interest in exploring software engineering and data science. Scroll down to explore my journey over the past few years
 
-## Education :pencil2:
+## Education 📚
 * **Bachelor of Arts** : Mathematics 
 * **Minor**: Arabic
 * **GPA**: 3.42
@@ -20,7 +20,7 @@ Hello! I'm Said Sheck, a recent mathematics graduate from the University of Wash
   4. CSE 414 (Into to Databases)
   5. MATH 395 (Probability II)
 
-## Technical Skills
+* **Technical Skills** ✏️
   1. Python
   2. R
   3. Java
