@@ -12,16 +12,16 @@ title                    : "Said Sheck's Portfolio"
 title_separator          : "-"
 name                     : &name "Said Sheck"
 description              : &description "Said Sheck's Portfolio"
-url                      : "said1210UW.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "said1210UW.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/images/profilepic.jpg"
+  avatar           : "profile.jpg"
   name             : "Said Sheck"
   pronouns         :  "He/Him"
   bio              : "Mathematics Graduate at the University of Washington"
