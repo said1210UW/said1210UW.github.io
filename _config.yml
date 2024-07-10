@@ -21,7 +21,7 @@ repository               : "said1210UW/said1210UW.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "saidPic.jpg"
   name             : "Said Sheck"
   pronouns         :  "He/Him"
   bio              : "Mathematics Graduate at the University of Washington"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Said Sheck
+  linkedin         : said-sheck-a675b21ba
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
