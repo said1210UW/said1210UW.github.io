@@ -20,7 +20,7 @@ Hello! I'm Said Sheck, a recent mathematics graduate from the University of Wash
   4. CSE 414 (Into to Databases)
   5. MATH 395 (Probability II)
 
-* **Technical Skills** ✏️
+## Technical Skills** ✏️
   1. Python
   2. R
   3. Java
