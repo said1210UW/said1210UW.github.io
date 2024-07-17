@@ -31,6 +31,7 @@ redirect_from:
   * Developed tools in R to enhance the accessibility of data provided by the NW Fisheries Science Center for a broader audience.
 
   * I leveraged the R package, R-Shiny, to transform our outdated Excel file into a user-friendly interface.
+
 ## University of Washington College of Education
 ### Student Fiscal Assistant 📁
   * As a student assistant, I was responsible for assisting the department with various financial tasks.
