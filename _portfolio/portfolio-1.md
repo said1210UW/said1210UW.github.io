@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The Mathematics of Gerrymandering"
+excerpt: "2024 Spring WXML Project <br/><img src='/images/WXML.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Every ten years, each state undergoes district division to elect members of Congress. The use of advanced mathematical techniques has empowered map-drawers to gain substantial political leverage. These tools also enable quantification of partisan favoritism within electoral maps. With the following project , we aimed to explore these mathematical tools, such as Markov Chain Monte Carlo and generative AI, while conducting an analysis of the current electoral map of Washington state.
