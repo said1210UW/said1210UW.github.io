@@ -1,31 +1,37 @@
 ---
 permalink: /
-title: "Hello, Welcome to Said's Webpage"
+title: "👋 Hello , Welcome to my Webpage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I'm Said Sheck, a recent mathematics graduate from the University of Washington, class of 2024. I have a strong passion for statistics and computer science, with a keen interest in exploring software engineering and data science. Scroll down to explore my journey over the past few years
+ 👋 Hello! my name is Said Sheck. 
+ 
+ 🎓 I am a recent 2024 mathematics graduate from the University of Washington
 
-  ## Education 📚
-  * **Bachelor of Arts** : Mathematics 
-  * **Minor**: Arabic
-  * **GPA**: 3.42
-  * **Relevant Courses**
-      1. STAT 416 (Intro to Machine Learning)
-      2. STAT 391 (Statistics for Data Science)
-      3. STAT 302 (Statistical Computing)
-      4. CSE 414 (Into to Databases)
-      5. MATH 395 (Probability II)
+ 📊  I have a strong passion for statistics and computer science, with a keen interest in exploring software engineering and  data science. 
 
-  ## Technical Skills ✏️
-    * **Python**
-    * **R**
-    * **Java**
-    * **JavaScript**
-    * **SQL**
-    * **HTML**
-    * **CSS**
-    * **Latex**
+ 🚀 Click around to learn what I've been up to over the last few years!
+
+
+# Work and Research Experience
+
+## Washington Experimental Math Lab (WXML)
+### Student Researcher 🔎
+  * As a researcher, my colleagues and I investigated the influence of modern mathematical tools on electoral districting.
+
+  * Employed mathematical techniques such as Markov Chains, Monte Carlo methods, and generative AI to measure and assess the partisan biases embedded in electoral district maps, with a specific focus on understanding their impact on political representation.
+
+  * Aimed to use the same tools to create a more accurate and equitable political situation.
+
+## National Oceanic & Atmospheric Administration (NOAA)
+### Research Intern 💻 
+  * Developed tools in R to enhance the accessibility of data provided by the NW Fisheries Science Center for a broader audience.
+
+  * I leveraged the R package, R-Shiny, to transform our outdated Excel file into a user-friendly interface.
+## University of Washington College of Education
+### Student Fiscal Assistant 📁
+  * As a student assistant, I was responsible for assisting the department with various financial tasks.
+  *  These tasks included processing reimbursements, reconciling myFD accounts, and processing check deposits.
