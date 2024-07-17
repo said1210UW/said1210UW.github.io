@@ -1,6 +1,7 @@
 ---
-title: "Currency Exchange API"
-excerpt: "A simple rest API along with a front-end <br/><img src='/images/currency-exchange.png'>"
+title: "Weather App"
+excerpt: "A simple weather app which calls on a weather API <br/><img src='/images/weather-app.png'>"
 collection: portfolio
 ---
-The CurrencyExchange API provides information about exchange rates for a specified currency relative to the United States Dollar. Please note that the following information is accurate as of February 22, 2022. The data used in this project was retrieved from sources such as currency flags (https://github.com/transferwise/currency-flags/) and currency information (https://openexchangerates.org/api/currencies.json).This project, provide me experience implenting a simple REST API.
+Connected to the OpenWeather API, this app enables users to check the current weather for a specified United States zip code. This project provided a great introduction to building a front-end application using HTML and CSS for design and JavaScript for functionality. It allowed me to integrate external services to provide weather information to users.
+
