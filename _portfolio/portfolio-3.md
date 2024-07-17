@@ -1,6 +1,6 @@
 ---
-title: "The Mathematics of Gerrymandering"
-excerpt: "2024 Spring WXML Project <br/><img src='/images/WXML.png' style='width:500px;height:500px;'>"
+title: "Currency Exchange API"
+excerpt: "A simple rest API along with a front-end <br/><img src='/images/currency-exchange.png'>"
 collection: portfolio
 ---
-Every ten years, each state undergoes district division to elect members of Congress. The use of advanced mathematical techniques has empowered map-drawers to gain substantial political leverage. These tools also enable quantification of partisan favoritism within electoral maps. With the following project , we aimed to explore these mathematical tools, such as Markov Chain Monte Carlo and generative AI, while conducting an analysis of the current electoral map of Washington state.
+The CurrencyExchange API provides information about exchange rates for a specified currency relative to the United States Dollar. Please note that the following information is accurate as of February 22, 2022. The data used in this project was retrieved from sources such as currency flags (https://github.com/transferwise/currency-flags/) and currency information (https://openexchangerates.org/api/currencies.json).This project, provide me experience implenting a simple REST API.
