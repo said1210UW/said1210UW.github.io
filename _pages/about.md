@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- Hello! my name is Said Sheck.
+ Hello! my name is Said Shecks.
 
  🎓 I am a recent 2024 mathematics graduate from the University of Washington
 
