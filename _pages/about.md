@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of Math](/images/Mathematics.jpg){: .align-right width= "300px"}
+![Illustration of Math](artIslam.jpg "Art"){: .align-right width = "300px"}
 
  Hello! my name is Said Shecks.
 
