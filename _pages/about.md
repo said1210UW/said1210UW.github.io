@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="float-right" style="width: 20%;">
-  <img src="artIslam.jpg" alt="Your Image" class="img-fluid">
-</div>
+
+![Your Image](artIslam.jpg){: style="float: right; width: 20%;"}
 
  Hello! my name is Said Sheck.
 
