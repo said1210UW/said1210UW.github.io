@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of Math](artIslam.jpg "Art"){: .align-right width = "300px"}
+![Illustration of Math](artIslam.jpg){: .align-right width = "300px"}
 
- Hello! my name is Said Shecks.
+ Hello! my name is Said Sheck.
 
  🎓 I am a recent 2024 mathematics graduate from the University of Washington
 
