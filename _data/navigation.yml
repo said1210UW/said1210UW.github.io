@@ -6,8 +6,11 @@ main:
   #- title: "Talks"
   # url: /talks/
 
-  #- title: "Experience"
-    #url: /publications/
+  #- title: "Experience" 
+   #url: /publications/
+  
+  - title: "Experience"
+    url: /markdown/  
 
   - title: "Portfolio"
     url: /portfolio/
@@ -18,5 +21,4 @@ main:
   - title: "CV"
     url: /files/Resume-2024.pdf
 
-  - title: "Experience"
-    url: /markdown/
+
