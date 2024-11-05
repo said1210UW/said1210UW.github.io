@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![Your Image](artIslam.jpg){: style="float: right; width: 40%;"}
-
  Hello! my name is Said Sheck.
 
  🎓 I am a recent 2024 mathematics graduate from the University of Washington
