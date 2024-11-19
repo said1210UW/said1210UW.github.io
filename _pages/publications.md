@@ -17,11 +17,12 @@ author_profile: true
 
 ## 💻 Research Intern
 ### National Oceanic & Atmospheric Administration (NOAA)
-  * I developed tools in R to enhance the accessibility of data provided by the NW Fisheries Science Center for a broader audience.
+  * Developed R-based tools to enhance accessibility to data from the NW Fisheries Science Center, making it more userfriendly for a wider audience
 
-  * I leveraged the R package, R-Shiny, to transform our outdated Excel file into a user-friendly interface.
+  * Leveraged the R-Shiny package to modernize legacy data tools, replacing outdated Excel files with an interactive web interface for data visualization.
 
 ## 📁 Student Fiscal Assistant 
 ### University of Washington College of Education
-  * As a student assistant, I was responsible for assisting the department with various financial tasks.
-  *  These tasks included processing reimbursements, reconciling myFD accounts, and processing check deposits.
+  * Assist with financial tasks, including processing reimbursements, reconciling myFD accounts, and processing check
+deposits
+  * Ensure accurate financial record-keeping and timely processing of transactions for the department
