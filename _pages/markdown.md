@@ -9,7 +9,7 @@ redirect_from:
 
 # Work and Research Experience
 
-## 🔎 Student Researcher 
+## 🔎 ![iamgay](image.png) Student Researcher 
 ### Washington Experimental Math Lab (WXML)
   - As a researcher, my colleagues and I investigated the Voting Rights Violation lawsuit filed against Washington State in the aftermath of the 2020 legislative redistricting process.
 
