@@ -9,7 +9,7 @@ redirect_from:
 
 # Work and Research Experience
 
-##  <img src="/_pages/wxml.png"  alt="WXML image" style="max-width: 2em; height: auto;" /> Student Researcher 
+##  <img src="/_pages/wxml.png"  alt="WXML image" style="max-width: 2em; height: auto; padding-right: 0.2em;" /> Student Researcher 
 ### Washington Experimental Math Lab (WXML)
   - As a researcher, my colleagues and I investigated the Voting Rights Violation lawsuit filed against Washington State in the aftermath of the 2020 legislative redistricting process.
 
@@ -19,13 +19,13 @@ redirect_from:
 
   - Finally we employed statistical techniques like ecological inference to establish if racial vote dilution was committed against the Latino community in the Yakima River Valley Are
 
-## <img src="/_pages/noaa.png" alt="NOAA Image" style="max-width: 2em; height: auto;"> Research Intern
+## <img src="/_pages/noaa.png" alt="NOAA Image" style="max-width: 2em; height: auto;padding-right: 0.2em;"> Research Intern
 ### National Oceanic & Atmospheric Administration (NOAA) 
   - Led by mentors from NOAA, I focused on creating user-friendly software applications to enhance accessibility to crucial fisheries management data. 
   - I developed a Stock Assessment Prioritization tool to address the challenge of prioritizing over 90 groundfish stocks, making the decision-making process more   intuitive by turning an offline workbook into an interactive graphical user interface. 
   - Additionally, the project included a Data Availability tool that summarized essential data for each species, providing decision-makers with key information to support stock assessments and offering the intern opportunities to improve coding skills and contribute to impactful West Coast groundfish fishery management planning.
 
-## 📁 Student Fiscal Assistant 
+## <img src="/_pages/collegeEd.png" alt="COE Image" style="max-width: 2em; height: auto;padding-right: 0.2em;"> Student Fiscal Assistant 
 ### University of Washington College of Education 
   - As a student assistant, I was responsible for assisting the department with various financial tasks.
   - These tasks included processing reimbursements, reconciling myFD accounts, and processing check deposits.
