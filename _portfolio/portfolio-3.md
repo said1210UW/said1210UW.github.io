@@ -5,7 +5,7 @@ collection: portfolio
 ---
 # Predicting Sentiment from Product Reviews
 
-This project examined product review data from Amazon.com to predict whether the sentiments about a product are positive or negative.
+This project examined product review data from Amazon.com to predict whether the sentiments about a product are positive or negative
 
 **Project Results:**
 - Train a logistic regression model to predict the sentiment of product reviews
