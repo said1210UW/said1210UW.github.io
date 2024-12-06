@@ -1,16 +1,16 @@
 ---
-title: "Currency Exchange API"
-excerpt: "A simple rest API along with a front-end <br/><img src='/images/currency-exchange.png'>"
+title: "Loan Safety Classifcation"
+excerpt: " A classification model to predict whether or not a loan provided by LendingClub is likely to default <br/><img src='/images/decisionTree.PNG'>"
 collection: portfolio
 ---
-This API Provides information regarding exchange rates of a given currency relative to the United States Dollar.
-  
-**Project Features**:
-  - Designed and built a RESTful API providing real-time exchange rates for over 180 currencies against the US dollar.
-  - Using Three Diffrent Endpoints to provide up to date exchange rates, currency information, and ask the number of currencies available
-  - Developed a client-side web application to allow users to easily select a currency and view the corresponding
-    exchange rate, enhancing user experience and accessibility.
+In this project, I will built a classification model to predict whether or not a loan provided by LendingClub is likely to default
 
-**The data used in this project was retrieved from sources such as**:
- -  [TransferWise Currency Flags](https://github.com/transferwise/currency-flags/) 
- -  [Open Exchange Rates - Currencies](https://openexchangerates.org/).
+**Project Results:**
+- Built Various Decision Trees to test whats the best classifcation model
+- A Tree with 10 diffrent conditions was created with 88 perecent accuracy with train data and 81 percent accruarcy when compared with validation data
+- Implemented Random Forest algorithim to reduce overfiiting of various Tree that were created
+
+
+**Sources:**
+- [Github Page](https://github.com/said1210UW/Loan-Safety-Decision-Tree)
+- [Lending Club Data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
