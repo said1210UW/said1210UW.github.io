@@ -1,16 +1,19 @@
 ---
-title: "Currency Exchange API"
-excerpt: "A simple rest API along with a front-end <br/><img src='/images/currency-exchange.png'>"
+title: "Amazon Review Sentiment Analysis"
+excerpt: "Examinig product review data from Amazon.com to predict whether the sentiments about a product are positive or negative.<br/><img src='/images/amazon.PNG'>"
 collection: portfolio
 ---
-This API Provides information regarding exchange rates of a given currency relative to the United States Dollar.
-  
-**Project Features**:
-  - Designed and built a RESTful API providing real-time exchange rates for over 180 currencies against the US dollar.
-  - Using Three Diffrent Endpoints to provide up to date exchange rates, currency information, and ask the number of currencies available
-  - Developed a client-side web application to allow users to easily select a currency and view the corresponding
-    exchange rate, enhancing user experience and accessibility.
+# Predicting Sentiment from Product Reviews
 
-**The data used in this project was retrieved from sources such as**:
- -  [TransferWise Currency Flags](https://github.com/transferwise/currency-flags/) 
- -  [Open Exchange Rates - Currencies](https://openexchangerates.org/).
+This project examined product review data from Amazon.com to predict whether the sentiments about a product are positive or negative.
+
+**Project Results:**
+- Use Pandas DataFrames to perform feature engineering
+- Train a logistic regression model to predict the sentiment of product reviews
+- Inspect the weights (coefficients) of a trained logistic regression model
+- Make a prediction (both class and probability) of sentiment for a new product review
+- Given a classifier, create a confusion matrix
+- Compare multiple logistic regression models
+
+**Links:**
+- [Github Link](https://github.com/said1210UW/Amazon-Review-Sentiment-Analysis)
