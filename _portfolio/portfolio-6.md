@@ -10,4 +10,5 @@ Connected to the OpenWeather API, this app allows users to check the current wea
 - It also enabled me to integrate external services to deliver weather information to users.
 
 **Sources:**
+- [Github Page](https://github.com/said1210UW/Weather-App)
 - [Open Weather API Service](https://openweathermap.org/) 
