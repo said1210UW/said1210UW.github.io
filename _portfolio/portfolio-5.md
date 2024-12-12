@@ -11,7 +11,7 @@ This API Provides information regarding exchange rates of a given currency relat
   - Developed a client-side web application to allow users to easily select a currency and view the corresponding
     exchange rate, enhancing user experience and accessibility.
 
-**The data used in this project was retrieved from sources such as**:
+**Links and Sources**:
  -  [Github Page](https://github.com/said1210UW/Currency-Exchange-API)
  -  [TransferWise Currency Flags](https://github.com/transferwise/currency-flags/) 
  -  [Open Exchange Rates - Currencies](https://openexchangerates.org/).
