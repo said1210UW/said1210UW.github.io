@@ -9,8 +9,6 @@ Connected to the OpenWeather API, this app allows users to check the current wea
 - This project provided a great introduction to building a front-end application using HTML and CSS for design, and JavaScript for functionality. 
 - It also enabled me to integrate external services to deliver weather information to users.
 
-<img src='/images/weather-app.png'>
-
 **Sources:**
 - [Github Page](https://github.com/said1210UW/Weather-App)
 - [Open Weather API Service](https://openweathermap.org/) 
