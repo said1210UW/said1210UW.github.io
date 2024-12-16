@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello , Welcome to my Webpage!"
+title: "Hello , Welcome to my Webpage!"
 author_profile: true
 redirect_from:
   - /about/
