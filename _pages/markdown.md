@@ -27,5 +27,6 @@ redirect_from:
 
 ## <img src="/_pages/collegeEd.png" alt="COE Image" style="max-width: 2em; height: auto;padding-right: 0.2em;"> Student Fiscal Assistant 
 ### University of Washington College of Education 
-  - As a student assistant, I was responsible for assisting the department with various financial tasks.
-  - These tasks included processing reimbursements, reconciling myFD accounts, and processing check deposits.
+ -  Assist with financial tasks, including processing reimbursements, reconciling myFD accounts, and processing check
+  deposits.
+ - Ensure accurate financial record-keeping and timely processing of 100s of transactions for the department.
