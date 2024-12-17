@@ -1,0 +1,291 @@
+body {
+    background-color: #B2BEB5;
+    font-family: System-ui;
+    font-style: normal;
+    
+    
+    margin: 0;
+}
+
+body, header, main, #face-section, #name-section, #socialmedia-section, .experience-container, 
+.title-container, .accomplishments-container,
+.project-card, .info-container, .project-container {
+    display: flex;
+   
+}
+
+body, header, #face-section, #name-section, .experience-container, .accomplishments-container, .jobs, .info-container  {
+     flex-direction: column;
+}
+
+body, header {
+    padding: 2%;
+}
+
+header {
+    padding-left: 0%;
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+}
+
+main, .project-container {
+    flex-wrap: wrap;
+}
+
+h1 {
+    font-family: 'Koh Santepheap', sans-serif;
+    font-weight: 400;
+    font-size: 4em;
+    margin-bottom: 0;
+    text-align: center;
+ 
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    padding: 2%;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav a {
+    color: black;
+    padding: 14px 16px;
+    margin-right: 10px;
+}
+
+nav a:hover, #socialmedia-section a:hover {
+    background-color: rgb(8, 1, 1);
+    color: #B2BEB5;
+}
+
+nav a:hover{
+    border-radius: 20px;
+}
+
+nav a:hover, #socialmedia-section a:hover {
+    transition-property: all;
+    transition-duration: 350ms;
+}
+
+#socialmedia-section a:hover {
+    height: 40px;
+    width: 40px;
+    border-radius: 5px;
+    box-shadow:
+    0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#name-section > p {
+    text-align: center;
+    max-width: 700px;
+    font-size: 1em;
+    margin: 0 auto;
+    letter-spacing: 0.5px;
+    width: 65%;
+}
+
+#face-section {
+    padding: 2%;
+    text-align: center;
+}
+
+#face-section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+#socialmedia-section a {
+    font-size: 2em;
+    color: #333;
+    padding: 20px;
+    font-size: 30px;
+    width: 1em;
+    height: 1em;
+    text-decoration: none;
+    margin-top: 0.5em;
+    margin-right: 10px;
+    border-radius: 40%;
+
+}
+
+@media (max-width: 768px) {
+    body, header {
+        padding: 5%;
+    }
+
+    h1 {
+        font-size: 2.5em;
+    }
+
+    #name-section > p {
+        width: 90%;
+    }
+}
+
+
+#face-section {
+    padding: 2%;
+    display: flex;
+    /* Centers the content horizontally */
+    align-items: center; /* Centers the content vertically */
+    text-align: center;
+}
+
+#face-section img {
+    width: 20em;  /* Set width to 20em */
+    height: 20em; /* Set height to 20em */
+    border-radius: 50%; /* Optional: makes the image circular */
+    padding-bottom: 2%;
+}
+
+#socialmedia-section {
+    justify-content: space-evenly;
+    width: 20em;
+}
+
+h2 { 
+    font-weight: 300;
+    text-align: center; 
+}
+
+.subtitle {
+    font-family:"amiri";
+    color: hsl(0 0% 0% / 0.7);
+    font-size: 2rem;
+    font-weight: 400;
+    opacity: 0;
+    transform: translateY(3rem);
+    animation: fadeInUp 2s ease forwards;
+}
+
+@keyframes typewriter {
+  to {
+    left: 100%;
+  }
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.experience-container {
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.experience-container h1 {
+    font-size: 2em;
+    font-weight: 300;
+}
+
+.jobs h2, .experience-container h1 { 
+    text-align: left;
+}
+
+
+.jobs, .project-card {
+    display: flex;
+    background-color: #e5e4e2;
+    color: #333;
+    padding: 2%;
+    margin-bottom: 2%;
+    border-radius: 20px;
+    
+}
+
+.jobs:hover, .project-card:hover {
+    box-shadow:
+    0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition-property: all;
+    transition-duration: 350ms;
+}
+
+.jobs h2 {
+    font-size: 300;
+}
+
+.jobs h3 {
+    font-size: 200;
+    font-style: italic;
+}
+
+.title-container {
+    justify-content: space-between;
+}
+
+.title-container > img {
+    width: 5em;
+    height: 5em;
+    border-radius: 50%;
+}
+
+.project-card  img {
+    max-width: 30em;
+    height: 25em;
+}
+
+.img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2.5%;
+    background-color: #6e6e6e;
+    border-radius: 10px;
+}
+
+.info-container {
+    justify-content: center;
+    align-items: center;
+}
+
+.info-container > p {
+    max-width: 10em;
+    padding-left: 10%;
+}
+
+.project-card {
+    width: 50em;
+    justify-content: space-between;
+}
+
+#projects-area {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#projects-area h1 {
+    font-size: 3em;
+    font-weight: 300;
+    padding: 2%;
+    padding-top: 0%;
+    padding-left: 3%;
+}
+
+#projects-area a {
+    padding: 2%;
+}
+
+.experience-container h1 {
+    font-size: 3em;
+    font-weight: 300;
+    padding: 2%;
+    padding-top: 0%;
+    padding-left: 3%;
+}
