@@ -30,10 +30,15 @@ main {
     width: 100%;
     height: 100vh;
     justify-content: center;
+
 }
 
 main, .project-container {
     flex-wrap: wrap;
+}
+
+#index-main {
+   align-content: start; 
 }
 
 h1 {
