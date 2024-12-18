@@ -194,19 +194,17 @@ h2, .experience-container h1, #projects-area h1, .experience-container h1 {
     margin-right: auto;
 }
 
-.experience-container h1 {
-    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+.project-card, .jobs {
+    transition: transform 0.3s ease;
 }
 
-.experience-container h1:hover {
-    transform: scale(1.1);
-    letter-spacing: 2px;
+.project-card:hover, .jobs:hover {
+    transform: scale(1.05);
 }
 
 .jobs h2, .experience-container h1 { 
     text-align: left;
 }
-
 
 .jobs, .project-card {
     background-color: #e5e4e2;  
