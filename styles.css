@@ -194,6 +194,11 @@ h2, .experience-container h1, #projects-area h1, .experience-container h1 {
     margin-right: auto;
 }
 
+.project-container {
+    align-items: center;
+    justify-content: space-evenly;
+}
+
 .project-card, .jobs {
     transition: transform 0.3s ease;
 }
