@@ -10,13 +10,13 @@ body {
 body, header, main, nav,#face-section, #name-section, #socialmedia-section, .experience-container, 
 .title-container, .accomplishments-container,
 .project-card, .info-container, 
-.project-container, .jobs, .project-card, .img-container {
+.project-container, .jobs, .project-card, .img-container, .accomplishments, .jobs-container {
     display: flex;
    
 }
 
 body, header, #face-section, #name-section, .experience-container, 
-.accomplishments-container, .jobs, .info-container  {
+.accomplishments-container, .jobs, .info-container, .accomplishments, .jobs-container {
      flex-direction: column;
 }
 
@@ -207,6 +207,10 @@ h2, .experience-container h1, #projects-area h1, .experience-container h1 {
     transform: scale(1.05);
 }
 
+.jobs {
+    max-width: 90em;
+}
+
 .jobs h2, .experience-container h1 { 
     text-align: left;
 }
@@ -296,4 +300,9 @@ h2, .experience-container h1, #projects-area h1, .experience-container h1 {
 
 #projects-area h1, .experience-container h1 {
     font-size: 3em;
+}
+
+.accomplishments {
+    max-width: 65em;
+    list-style-type: '- ';
 }
