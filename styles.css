@@ -306,3 +306,7 @@ h2, .experience-container h1, #projects-area h1, .experience-container h1 {
     max-width: 65em;
     list-style-type: '- ';
 }
+
+#Work-Title {
+    padding-left: 0%;
+}
