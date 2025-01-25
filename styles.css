@@ -245,8 +245,8 @@ h2, .experience-container h1, #projects-area h1, .experience-container h1 {
 }
 
 .jobs h3 {
-    font-size: 200;
-    font-style: italic;
+    font-weight: 600;
+    font-style: normal;
 }
 
 .title-container, .project-card {
